@@ -1,4 +1,4 @@
-<img src="https://instagram.fabv3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/93454839_916314135473930_4828936429310574592_n.jpg?tp=1&_nc_ht=instagram.fabv3-1.fna.fbcdn.net&_nc_ohc=SG2057l4X8oAX-Ll6GQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=aeb486ee3b00aa17ee96dd3d3c49941a&oe=60C566B4&_nc_sid=7bff83">
+<img src="https://scontent-los2-1.cdninstagram.com/v/t51.2885-19/s150x150/93454839_916314135473930_4828936429310574592_n.jpg?_nc_ht=scontent-los2-1.cdninstagram.com&_nc_ohc=sVRcnHkdPrIAX8B-KGC&edm=ABfd0MgBAAAA&ccb=7-4&oh=0538725215b6096b6db55bd4e7e68ee7&oe=6129DC34&_nc_sid=7bff83">
 
 <h2> Hey there! 👋 I'm Chinedu.</h2>
 
@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduate of Nnamdi Azikiwe University, Awka, Nigeria.
-- 💼 &nbsp; Currently an Application Development Officer at a Nigerian Bank.
+- 💼 &nbsp; Currently an Application Developer at a Nigerian Bank.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing an International Career and Blog Writing, Sports, are my hobbies.
 - 😄 &nbsp; Pronouns: Him, He, His.
