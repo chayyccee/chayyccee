@@ -1,4 +1,4 @@
-<img src="https://scontent-los2-1.cdninstagram.com/v/t51.2885-19/s150x150/93454839_916314135473930_4828936429310574592_n.jpg?_nc_ht=scontent-los2-1.cdninstagram.com&_nc_ohc=sVRcnHkdPrIAX8B-KGC&edm=ABfd0MgBAAAA&ccb=7-4&oh=0538725215b6096b6db55bd4e7e68ee7&oe=6129DC34&_nc_sid=7bff83">
+[![header](https://github.com/chayyccee/chayyccee/blob/main/banner/Screenshot%202021-09-19%20153242.png)](https://github.com/chayyccee)
 
 <h2> Hey there! 👋 I'm Chinedu.</h2>
 
