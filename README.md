@@ -64,7 +64,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://chayyccee.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.github.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://chayyccee.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.chayyccee.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/chinedu-eke/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chinedu%20Eke-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://https://twitter.com/official_eke/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@official_eke-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.instagram.com/chayyccee/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-chayyccee-blue?style=flat-square&logo=instagram"></a>
