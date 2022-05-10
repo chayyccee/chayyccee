@@ -57,12 +57,12 @@
 ## My GitHub Stats
 
 <a href="https://github.com/chayyccee">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=chayyccee&theme=buefy&show_icons=true" />
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayyccee&theme=buefy&layout=compact&hide=html" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=chayyccee&theme=buefy&show_icons=true" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayyccee&theme=buefy&layout=compact&hide=html" />
 </a>
 
 <a href="https://github.com/chayyccee">
-   <img align="center" width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=chayyccee&theme=buefy" alt="chayyccee" />
+   <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chayyccee&theme=buefy" alt="chayyccee" />
 </a>
 
 <br />
