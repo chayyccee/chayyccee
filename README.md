@@ -57,8 +57,8 @@
 ## My GitHub Stats
 
 <a href="https://github.com/chayyccee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chayyccee&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayyccee&theme=buefy&layout=compact&hide=html" />
+  <img height="180em" align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=chayyccee&theme=buefy&show_icons=true" />
+  <img height="180em" align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayyccee&theme=buefy&layout=compact&hide=html" />
 </a>
 
 <a href="https://github.com/chayyccee">
