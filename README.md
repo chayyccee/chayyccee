@@ -58,11 +58,7 @@
 
 <a href="https://github.com/chayyccee">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=chayyccee&theme=buefy&show_icons=true" />
-  <img height="180em" width="50%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayyccee&theme=buefy&layout=compact&hide=html" />
-</a>
-
-<a href="https://github.com/chayyccee">
-   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chayyccee&theme=buefy" alt="chayyccee" />
+  <img height="180em" align="center" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayyccee&theme=buefy&layout=compact&hide=html" />
 </a>
 
 <br />
@@ -70,6 +66,10 @@
 ## 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chayyccee&theme=buefy&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/chayyccee">
+   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chayyccee&theme=buefy" alt="chayyccee" />
+</a>
 
 <br/>
 
