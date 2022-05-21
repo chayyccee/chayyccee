@@ -63,6 +63,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayyccee&theme=buefy&layout=compact&hide=html" />
 </a>
 
+&nbsp;
+
+![Chayyccee's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chayyccee&hide_border=true&theme=buefy)
+
 <br />
 
 ## 🏆 Github Profile Trophy
