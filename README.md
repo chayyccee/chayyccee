@@ -7,7 +7,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduate of Nnamdi Azikiwe University, Awka, Nigeria🇳🇬.
+- 🎓 &nbsp; Graduate of Nnamdi Azikiwe University, Awka, Nigeria 🇳🇬 .
 - 💼 &nbsp; Currently an Application Developer at a Nigerian Bank.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing an International Career and Blog Writing, Sports, are my hobbies.
