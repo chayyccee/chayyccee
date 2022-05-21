@@ -72,7 +72,7 @@
 </a>
 
 <a href="https://www.efset.org/cert/ZD21gT">
-   <img style="margin-right: 30px;" src="https://cdn.efset.org/efset-widget/img/certificate_69.png" alt="english certificate">
+   <img style="margin-top: 30px;" src="https://cdn.efset.org/efset-widget/img/certificate_69.png" alt="english certificate">
 </a>
 
 <br/>
