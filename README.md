@@ -65,7 +65,7 @@
 
 &nbsp;
 
-![Chayyccee's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chayyccee&hide_border=true&theme=buefy)
+![Chayyccee's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chayyccee&hide_border=true&theme=react-dark)
 
 <br />
 
@@ -82,6 +82,7 @@
 ## English Certificate
 
 &nbsp;
+
   <a href="https://www.efset.org/cert/ZD21gT">
    <img src="https://cdn.efset.org/efset-widget/img/certificate_69.png" alt="english certificate">
   </a>
