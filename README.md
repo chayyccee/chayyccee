@@ -73,13 +73,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chayyccee&theme=buefy&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div>
   <a href="https://github.com/chayyccee">
    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chayyccee&theme=buefy" alt="chayyccee" />
   </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFA500&center=true&vCenter=true&width=600&lines=Welcome+|+Nnọọ+|+欢迎+|+स्वागत+|+Bienvenido+|+Bienvenu+|+ברוך הבא+|+Добро пожаловатьते+|+Receber;+I am+pleased+to+have you here+👋 )](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nimbus+Sans&size=27&duration=6000&color=FFA500&width=500&height=100&lines=Welcome+%7C+Nn%E1%BB%8D%E1%BB%8D+%7C+%E6%AC%A2%E8%BF%8E+%7C+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4+%7C+Bienvenido+%7C+Bienvenu+%7C+%D7%91%D7%A8%D7%95%D7%9A+%D7%94%D7%91%D7%90+%7C+%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%E0%A4%A4%E0%A5%87+%7C+Receber;I+am+pleased+to+have+you+here+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 
 <br/>
 
