@@ -1,8 +1,10 @@
 [![header](https://github.com/chayyccee/chayyccee/blob/main/banner/Screenshot%202021-09-19%20153242.png)](https://github.com/chayyccee)
 
-<h2> Hey there! 👋 I'm Chinedu.</h2>
+<h2> Hey there! 👋 I'm Chinedu.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nimbus+Sans&size=27&color=FFA500&width=700&height=100&lines=Welcome+%7C+Nn%E1%BB%8D%E1%BB%8D+%7C+%E6%AC%A2%E8%BF%8E+%7C+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4+;Bienvenido+%7C+Bienvenu+%7C+%D7%91%D7%A8%D7%95%D7%9A+%D7%94%D7%91%D7%90+;+%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%E0%A4%A4%E0%A5%87+%7C+Receber;I+am+pleased+to+have+you+here+.%F0%9F%91%8B)](https://git.io/typing-svg)
+</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduate of Nnamdi Azikiwe University, Awka, Nigeria 🇳🇬.
@@ -11,7 +13,7 @@
 - ✍️ &nbsp; Pursuing an International Career and Blog Writing, Sports, are my hobbies.
 - 😄 &nbsp; Pronouns: Him, He, His.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
 - 💻 &nbsp;
    <!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -77,8 +79,6 @@
    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chayyccee&theme=buefy" alt="chayyccee" />
   </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nimbus+Sans&size=27&duration=6000&color=FFA500&width=500&height=100&lines=Welcome+%7C+Nn%E1%BB%8D%E1%BB%8D+%7C+%E6%AC%A2%E8%BF%8E+%7C+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4+%7C+Bienvenido+%7C+Bienvenu+%7C+%D7%91%D7%A8%D7%95%D7%9A+%D7%94%D7%91%D7%90+%7C+%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%E0%A4%A4%E0%A5%87+%7C+Receber;I+am+pleased+to+have+you+here+%F0%9F%91%8B)](https://git.io/typing-svg)
-
 
 <br/>
 
@@ -92,7 +92,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
 <p align="center">
 <a href="https://chayyccee.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.chayyccee.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
