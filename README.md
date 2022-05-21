@@ -18,11 +18,13 @@
     ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
     ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) -->
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express&logoColor=7t5565)
