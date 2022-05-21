@@ -71,8 +71,8 @@
    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chayyccee&theme=buefy" alt="chayyccee" />
 </a>
 
-<a href="[https://github.com/chayyccee](https://www.efset.org/cert/ZD21gT)">
-   <img src="https://cdn.efset.org/efset-widget/img/certificate_69.png" alt="english certificate">
+<a href="https://www.efset.org/cert/ZD21gT">
+   <img margin="15px" src="https://cdn.efset.org/efset-widget/img/certificate_69.png" alt="english certificate">
 </a>
 
 <br/>
