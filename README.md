@@ -1,8 +1,12 @@
 [![header](https://github.com/chayyccee/chayyccee/blob/main/banner/Screenshot%202021-09-19%20153242.png)](https://github.com/chayyccee)
 
-<h2> Hey there! 👋 I'm Chinedu.
+<h2> Hey there! 👋 I'm Chinedu.</h2>
+
+##
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nimbus+Sans&size=27&color=FFA500&width=700&height=100&lines=Welcome+%7C+Nn%E1%BB%8D%E1%BB%8D+%7C+%E6%AC%A2%E8%BF%8E+%7C+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4+;Bienvenido+%7C+Bienvenu+%7C+%D7%91%D7%A8%D7%95%D7%9A+%D7%94%D7%91%D7%90+;+%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%E0%A4%A4%E0%A5%87+%7C+Receber;I+am+pleased+to+have+you+here+.%F0%9F%91%8B)](https://git.io/typing-svg)
-</h2>
+
+##
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
