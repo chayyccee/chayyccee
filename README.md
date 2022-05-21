@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduate of Nnamdi Azikiwe University, Awka, Nigeria.
+- 🎓 &nbsp; Graduate of Nnamdi Azikiwe University, Awka, Nigeria 🇳🇬.
 - 💼 &nbsp; Currently an Application Developer at a Nigerian Bank.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing an International Career and Blog Writing, Sports, are my hobbies.
@@ -73,9 +73,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chayyccee&theme=buefy&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/chayyccee">
+<div>
+  <a href="https://github.com/chayyccee">
    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chayyccee&theme=buefy" alt="chayyccee" />
-</a>
+  </a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFA500&center=true&vCenter=true&width=600&lines=Welcome+|+Nnọọ+|+欢迎+|+स्वागत+|+Bienvenido+|+Bienvenu+|+ברוך הבא+|+Добро пожаловатьते+|+Receber;+I am+pleased+to+have you here+👋 )](https://git.io/typing-svg)
+</div>
 
 <br/>
 
